@@ -1,0 +1,4 @@
+# Buy or Wait? Financial Decision Agent
+# The solution uses only the Python standard library for core deterministic execution.
+# Pillow is optional for local image inspection.
+pillow>=10.0.0

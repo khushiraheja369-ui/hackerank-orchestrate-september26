@@ -1,0 +1,9 @@
+log.txt
+.env
+__pycache__/
+*.pyc
+scratch/
+scratch_*
+patient_readings.*
+submission/
+
